@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <meta charset="UTF-8">
+    <title>Django Table</title>
+</head>
+<body>
+    <table>
+    {% for tob in table %}
+    <tr>
+        {% if tob.age > 23 %}
+        <td style="background-color: red;">{{tob.name}}</td>
+        <td style="background-color: red;">{{ tob.age}}</td>
+    </tr>
+    {% else %}
+      <tr>
+        <td >{{tob.name}}</td>
+         <td>{{ tob.age}}</td>
+    </tr>
+        {% endif %}
+     {% endfor %}
+    </table>
+<!--Narek Grigoryan-->
+</body>
+</html>
