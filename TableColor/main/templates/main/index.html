@@ -2,7 +2,7 @@
 <html >
 <head>
     <meta charset="UTF-8">
-    <title>Django Table</title>
+    <title>{{title}}</title>
 </head>
 <body>
     <table>
@@ -20,6 +20,7 @@
         {% endif %}
      {% endfor %}
     </table>
+    <a href="{% url 'about' %}">about</a>
 <!--Narek Grigoryan-->
 </body>
 </html>

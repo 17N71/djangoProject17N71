@@ -1,31 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SPLITTER_PROPORTION" value="0.5007788" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="11a6db74-342a-4ee9-9f7e-da6a59547313" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/django.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TableColor/TableColor/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TableColor/TableColor/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TableColor/TableColor/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TableColor/TableColor/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TableColor/TableColor/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TableColor/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TableColor/main/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TableColor/main/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TableColor/main/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TableColor/main/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TableColor/main/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TableColor/main/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TableColor/main/templates/main/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TableColor/main/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TableColor/main/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TableColor/main/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TableColor/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TableColor/main/static/women/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TableColor/main/templates/main/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TableColor/TableColor/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/TableColor/TableColor/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TableColor/TableColor/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/TableColor/TableColor/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TableColor/main/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/TableColor/main/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TableColor/main/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/TableColor/main/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TableColor/main/templates/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TableColor/main/templates/main/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TableColor/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/TableColor/main/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TableColor/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/TableColor/main/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +32,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -54,17 +45,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/narek/OneDrive/Рабочий стол/django",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/narek/OneDrive/Рабочий стол/django&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\narek\OneDrive\Рабочий стол\django\TableColor\main\static\women\images" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="django" />
@@ -98,6 +94,8 @@
       <option name="presentableId" value="Default" />
       <updated>1655374975397</updated>
       <workItem from="1655374976582" duration="3503000" />
+      <workItem from="1655381273999" duration="65000" />
+      <workItem from="1655384084627" duration="5747000" />
     </task>
     <servers />
   </component>

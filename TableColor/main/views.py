@@ -1,7 +1,19 @@
 from django.shortcuts import render
-from .models import Table
+
+usersL = [{
+    "name": "Armen",
+    "age": 25
+},
+    {
+        "name": "Anna",
+        "age": 23
+    },
+]
 
 
 def home(request):
-    table = Table.usersL
-    return render(request, 'main/index.html', {'table': table})
+    return render(request, 'main/index.html', {'table': usersL, 'title': 'Home Page'})
+
+
+def about(request):
+    return render(request, 'main/about.html', {'table': usersL, 'title': 'about Page'})
